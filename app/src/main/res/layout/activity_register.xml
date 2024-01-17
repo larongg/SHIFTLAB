@@ -57,7 +57,7 @@
             android:autofillHints=""
             android:ems="10"
             android:hint="@string/password"
-            android:inputType="textPassword"
+            android:inputType="text"
             android:minHeight="48dp" />
 
         <EditText
@@ -68,13 +68,14 @@
             android:autofillHints=""
             android:ems="10"
             android:hint="@string/repeat_password"
-            android:inputType="textPassword"
+            android:inputType="text"
             android:minHeight="48dp" />
 
         <Button
             android:id="@+id/regButton"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:clickable="false"
             android:onClick="register"
             android:text="@string/sign_in" />
     </LinearLayout>
