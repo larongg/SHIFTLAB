@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestLabSHIFT</string>
+    <string name="first_name">Имя</string>
+    <string name="second_name">Фамилия</string>
+    <string name="date">Дата рождения (ДД.ММ.ГГГГ.)</string>
+    <string name="password">Пароль</string>
+    <string name="repeat_password">Повторите пароль</string>
+    <string name="sign_in">Регистрация</string>
+    <string name="hello">Приветствие</string>
+    <string name="dialog">Приветствую, %s!</string>
+    <string name="back">Назад</string>
+</resources>
